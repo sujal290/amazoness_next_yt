@@ -1,4 +1,3 @@
-
 import { LuMenu } from "react-icons/lu";
 import { StateProps } from "../../../type";
 import { signOut } from "next-auth/react";
